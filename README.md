@@ -6,6 +6,10 @@ MITRA is a simple GenAI assistant built with Python, Gemini, and Streamlit.
 
 It uses multiple AI agents to understand a user's request, create a plan, generate a response, and review the response before showing it.
 
+## 🏗️ Architecture
+
+![MITRA Architecture](assets/mitra-architecture.png)
+
 ## ✨ How MITRA Works
 
 ```text
@@ -83,7 +87,3 @@ More capabilities can be added in future versions.
 ## 📄 License
 
 This project is open source and intended for learning and experimentation.
-
-## 🏗️ Architecture
-
-![MITRA Architecture](assets/mitra-architecture.png)
