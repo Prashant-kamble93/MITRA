@@ -83,3 +83,7 @@ More capabilities can be added in future versions.
 ## 📄 License
 
 This project is open source and intended for learning and experimentation.
+
+## 🏗️ Architecture
+
+![MITRA Architecture](assets/mitra-architecture.png)
